@@ -1,3 +1,5 @@
-Version 0.1
+Version 0.1.1
 
-Versione di prova con Massi
+Versione di prova con Massi e Mone.
+
+Saluti da Torino!
